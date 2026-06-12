@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auto Compress Memory"
+  short_description: "Automatically compress and group user-memory entries when they exceed a threshold, keeping the memory store clean and manageable."
+  default_prompt: "Run compress.py status to check, then compress.py compress if raw entries exceed threshold"
